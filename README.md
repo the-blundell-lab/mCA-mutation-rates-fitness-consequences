@@ -1,21 +1,47 @@
 # mCA-mutation-rates-fitness-consequences
-This repository contains the code and necessary files to accompany the manuscript **"The Evolutionary Dynamics and Fitness Landscape of Clonal Hematopoiesis"**. Code was written in Jupyter notebook using Python. 
+This repository contains the code and necessary files to accompany the manuscript **"Mutation rates and fitness consequences of mosaic chromosomal alterations in blood"**. Code was written using Python. 
 
 If there are problems with the code (.ipynb) pages rendering, please try viewing them here: .....
 
 # Navigation:
 ## Code & data for generation of figures/ analyses in main text:
 ### Figure 1:
+- Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/Estimating mCA mutation rates and fitness effects.ipynb_
 
 ### Figure 2:
-
+- **Figure 2a**:
+- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
+- **Figure 2b**:
+- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
+- **Figure 2c**:
+- - Github folder: _Sex differences in mCA fitness effects and mutation rates_
+    
 ### Figure 3:
-
+- - Github folder: _Age dependence of mCAs_
+    
 ### Figure 4:
-
+- - Github folder: _Blood cancer risk_
+  
 ### Figure 5:
-
+- - Github folder: _mLOY and mLOX_
+  
 ### Figure 6:
+- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
+
+ 
+## Code & data for generation of Extended Data figures:
+### Extended Data Figures 1-7:
+- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
+ 
+### Extended Data Figure 8:
+- - Github folder: _mLOY and mLOX_
+
+### Extended Data Figure 9:
+- - Github folder: _Simulated data_
+ 
+### Extended Data Figure 10:
+- - Github folder: _mLOY and mLOX_
+
 
 ## Code & data for generation of figures/ analyses in supplement:
 ### Supplementary Note 1 (Data used in analysis):
