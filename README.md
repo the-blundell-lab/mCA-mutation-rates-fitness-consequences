@@ -77,3 +77,6 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 ### Supplementary Note 8 (Relationship with more descriptive metrics):
 - **Supplementary Figure 27**:
     - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
+
+# LICENSE
+[GNU General Public License v3.0]([https://www.google.com](https://choosealicense.com/licenses/gpl-3.0/))
