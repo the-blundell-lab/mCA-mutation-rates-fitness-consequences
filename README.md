@@ -1,6 +1,6 @@
 This repository contains the code and necessary files to accompany the manuscript **"Mutation rates and fitness consequences of mosaic chromosomal alterations in blood"**. Code was written using Python. 
 
-If there are problems with the code (.ipynb) pages rendering, please try viewing them here: [.....](https://nbviewer.org/github/the-blundell-lab/mCA-mutation-rates-fitness-consequences/tree/main/)
+If there are problems with the code (.ipynb) pages rendering, please try viewing them on [jupyter nbviewer](https://nbviewer.org/github/the-blundell-lab/mCA-mutation-rates-fitness-consequences/tree/main/)
 
 ## Navigation:
 ### Code & data for generation of figures/ analyses in main text:
