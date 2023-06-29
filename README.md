@@ -1,4 +1,3 @@
-# mCA-mutation-rates-fitness-consequences
 This repository contains the code and necessary files to accompany the manuscript **"Mutation rates and fitness consequences of mosaic chromosomal alterations in blood"**. Code was written using Python. 
 
 If there are problems with the code (.ipynb) pages rendering, please try viewing them here: .....
