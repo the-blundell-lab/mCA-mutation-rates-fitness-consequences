@@ -18,7 +18,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 #### Figure 3 (Age dependence of mCAs):
 - Github folder: _Age dependence of mCAs_
     
-### Figure 4 (mCA fitness effects and blood cancer risk):
+#### Figure 4 (mCA fitness effects and blood cancer risk):
 - Github folder: _Blood cancer risk_
   
 #### Figure 5 (mLOY and mLOX):
