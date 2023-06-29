@@ -10,37 +10,37 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 
 ### Figure 2:
 - **Figure 2a**:
-- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
+    - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
 - **Figure 2b**:
-- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
+    - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
 - **Figure 2c**:
-- - Github folder: _Sex differences in mCA fitness effects and mutation rates_
+    - Github folder: _Sex differences in mCA fitness effects and mutation rates_
     
 ### Figure 3:
-- - Github folder: _Age dependence of mCAs_
+- Github folder: _Age dependence of mCAs_
     
 ### Figure 4:
-- - Github folder: _Blood cancer risk_
+- Github folder: _Blood cancer risk_
   
 ### Figure 5:
-- - Github folder: _mLOY and mLOX_
+- Github folder: _mLOY and mLOX_
   
 ### Figure 6:
-- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
+- Github folder: _Maximum likelihood parameter estimation for autosomal mCAs/DFEs (mCAs) and DFE of SNVs vs mCAs.ipynb_
 
  
 ## Code & data for generation of Extended Data figures:
 ### Extended Data Figures 1-7:
-- - Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
+- Github folder: _Maximum likelihood parameter estimation for autosomal mCAs_
  
 ### Extended Data Figure 8:
-- - Github folder: _mLOY and mLOX_
+- Github folder: _mLOY and mLOX_
 
 ### Extended Data Figure 9:
-- - Github folder: _Simulated data_
+- Github folder: _Simulated data_
  
 ### Extended Data Figure 10:
-- - Github folder: _mLOY and mLOX_
+- Github folder: _mLOY and mLOX_
 
 
 ## Code & data for generation of figures/ analyses in supplement:
