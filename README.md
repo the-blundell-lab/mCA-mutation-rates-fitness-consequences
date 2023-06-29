@@ -26,7 +26,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 
 ### Supplementary Note 4 (Age dependence of mCAs):
 
-### Supplementary Note 5 (Fitness effects and mutation rates for mCAs observed as single events vs. observed with additional mCAs):
+### Supplementary Note 5 (Fitness effects and mutation rates for single vs. multiple events):
 
 ### Supplementary Note 6 (Length dependence of loss events):
 
